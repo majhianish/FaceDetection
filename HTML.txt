@@ -1,0 +1,26 @@
+HTML
+
+<a ref="">
+<img src="" alt="">
+<ol> / <ul> / <li>
+inline elements : elements take up only required amount of space.
+block elements : elements take a block space.
+<div> </div> : creates a chunk of block element.
+<span> </span> : creates a chunk of inline elements.
+similar to div tags are : <nav> for a navigation bar.
+					 <section> for a section of the text.
+					 <article>
+					 <aside> for side-content.
+					 <header>
+					 <footer>
+					 <time> inline
+					 <figure>
+
+<table> : enclosing the whole table.
+	<tr> : table row
+	<th> : table heading (of a column)
+	<td> : table data
+	<thead> : enclose <th> in it.
+	<tbody> : enclode the rest in it.
+	rowspan/colspan : attributes of <th>,<td> gives no. of rows/column the cell takes up, respectively.
+	
